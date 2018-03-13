@@ -21,4 +21,4 @@ The controls of the game were simple, the player moves the characters left, righ
 4) Character Generator to create Hero Sprite – Can be found here 
 5) Sithjester’s RXMP Resources for the enemy sprites – Can be found here.
 
-The actual code itself is below. I used Object Oriented Programming to implement the vast majority of functions, considering how versatile it is to duplicate elements of the same type with slightly different characteristics. Since I had learnt OOP in Intro to CS, and had implemented a game of similar nature, it didnt prove to be too difficult to come up with the logic for the game.
+I used Object Oriented Programming to implement the vast majority of functions, considering how versatile it is to duplicate elements of the same type with slightly different characteristics. Since I had learnt OOP in Intro to CS, and had implemented a game of similar nature, it didnt prove to be too difficult to come up with the logic for the game.
