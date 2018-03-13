@@ -1,0 +1,12 @@
+Platform,200,350,200,52
+Platform,400,350,200,52
+Platform,800,450,200,52
+Platform,1000,350,200,52
+Platform,1200,350,200,52
+Platform,1400,450,200,52
+Silverbat,800,200,16,585,silverbat1.png,32,32,4
+Silverbat,600,200,16,585,silverbat1.png,32,32,4
+Tonberry,650,350,20,585,tonberry1.png,40,40,4
+Tonberry,900,150,20,585,tonberry1.png,40,40,4
+Silverbat,300,150,16,585,silverbat1.png,32,32,4
+Music,openWorld2.mp3
